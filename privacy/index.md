@@ -5,11 +5,11 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: March 4, 2021*
+*Last updated: 9 March 2021*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
-This policy applies to all products built and maintained by Basecamp LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard. For candidates applying to jobs at Basecamp LLC, please review our [Recruitment Privacy policy](recruitment/index.md).
+This policy applies to all products built and maintained by Type One TEchnologiees Ltd including Diabetes Dashboard (all versions) and Glycaemetrics.
 
 ## What we collect and why
 
