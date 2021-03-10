@@ -8,7 +8,7 @@ The privacy of your data is of the highest importance to us. In this policy, we 
 - how your data is handled;
 - and your rights to your data.
 
-We commit to never sell your private data. To anyone.
+We commit to never sell your private data. To anyone. Testing change 1, 2, 3
 
 This policy applies to all products built and maintained by Type One Technologies Ltd, including Diabetes Dashboard and Glycaemetrics.
 
