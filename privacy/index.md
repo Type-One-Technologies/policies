@@ -1,13 +1,6 @@
-v 0.0.1 - Created 9 March 2021 - Current
-
----
-
-## title: Privacy policy
-description: The privacy of your data — and it is your data, not ours! — is a big deal to us. Here’s the rundown of what we collect and why, when we access your information, and your rights.
-
 # Privacy policy
 
-*Last updated: 9 March 2021*
+*Last updated: 10 March 2021*
 
 The privacy of your data is of the highest importance to us. In this policy, we lay out:
 
@@ -34,7 +27,7 @@ Any data collected for research purposes is always on an opt-in basis only, and 
 
 When you sign up for a Type One Technologies product, we typically ask for identifying information such as your name, email address, and some details about your circumstances.
 
-That’s just so you can personalise your new account, and we can send you invoices, updates, or other essential information. We sometimes also give you the option to add a profile picture that displays in our products, but we do not normally look at or access that picture.
+That’s just so we can personalise your new account, and we can send you invoices, updates, or other essential information. We also give you the option to add a profile picture that displays in our products, but we do not normally look at or access that picture.
 
 On signing up, we will also ask you what country you live in. This is because we use data centres in different countries based on where our users are, and we need to know where to house your data.
 
@@ -84,7 +77,7 @@ When you opt-in to sharing your data with Glycaemetrics, Diabetes Dashboard will
 
 ### Information we do not collect
 
-We don’t collect characteristics of protected classifications including race, religion, sexual orientation, gender identity, gender expression, or physical and mental abilities or disabilities. You may provide these data voluntarily, such as if you include a pronoun preference in your email signature when writing into our Support team.
+We don’t collect characteristics of protected classifications including race, religion, sexual orientation, gender identity, gender expression, or physical and mental abilities or disabilities. You may provide these data voluntarily, such as in your email signature when writing into our Support team.
 
 We also do not collect any biometric data. You are given the option to add a picture to your user profile, which could be a real picture of you or a picture of something else that represents you best. We do not extract any information from profile pictures: they are for your use alone.
 
@@ -120,7 +113,7 @@ Type One Technologies Ltd is a UK company with data infrastructure located in th
 - If we get an informal request from any person, organisation, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly. Please contact our support team for instructions
 - If we are audited by HMRC or other tax authority, we may be required to share billing-related information. If that happens, we only share the bare minimum needed such as billing addresses and tax exemption information.
 
-Finally, if Type one Technologies Ltd is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
+Finally, if Type One Technologies Ltd is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
 ## Your rights with respect to your information
 
@@ -139,7 +132,7 @@ At Type One Technologies, we apply the same data rights to all customers, regard
 
 Many of these rights can be exercised by signing in and directly updating your account information.
 
-If you have questions about exercising these rights or need assistance, please contact us at [privacy@typeone.tech](mailto:privacy@typeone.tech) or at Type One Technologies Ltd, 63-66 Hatton Gardens, Fifth Floor, Suite 23, London EC1N 8LE. For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
+If you have questions about exercising these rights or need assistance, please contact us at [privacy@typeone.tech](mailto:privacy@typeone.tech) or at:
 
 Type One Technologies Ltd
 63-66 Hatton Gardens
